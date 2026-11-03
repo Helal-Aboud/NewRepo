@@ -1,3 +1,3 @@
-# NewRepo
-this is my repo for practicing .
-this line is added by orogib/main .
+# Project
+
+This repository contains the source code for the project.[;[
